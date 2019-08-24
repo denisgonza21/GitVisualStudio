@@ -12,6 +12,7 @@ namespace Prueba1
         {
             Console.WriteLine("Segundo cambio");
             Console.WriteLine("Tercer cambio");
+            Console.WriteLine("Cuarto cambio");
         }
     }
 }
